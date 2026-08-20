@@ -1,0 +1,3786 @@
+[
+    {
+        "name": "Erigavo Airport",
+        "max_aricrafts": null,
+        "line_length": 305,
+        "planes": [
+            {
+                "number": "19-662-0603",
+                "max_distance": 3761,
+                "max_cargo_weight": 1287,
+                "min_line_length": 320
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "88-515-9241",
+                "max_distance": 724,
+                "max_cargo_weight": 814,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Ioma Airport",
+        "max_aricrafts": null,
+        "line_length": 470,
+        "planes": [
+            {
+                "number": "80-040-6777",
+                "max_distance": 1334,
+                "max_cargo_weight": 1045,
+                "min_line_length": 417
+            },
+            {
+                "number": "24-407-0624",
+                "max_distance": 1689,
+                "max_cargo_weight": 1457,
+                "min_line_length": 477
+            }
+        ],
+        "helicopters": []
+    },
+    {
+        "name": "Huesca/Pirineos Airport",
+        "max_aricrafts": 6,
+        "line_length": 321,
+        "planes": [],
+        "helicopters": [
+            {
+                "number": "72-088-1065",
+                "max_distance": 844,
+                "max_cargo_weight": 416,
+                "is_military": false
+            },
+            {
+                "number": "05-042-7275",
+                "max_distance": 204,
+                "max_cargo_weight": 269,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Ruby Airport",
+        "max_aricrafts": 9,
+        "line_length": 274,
+        "planes": [
+            {
+                "number": "36-357-4334",
+                "max_distance": 3428,
+                "max_cargo_weight": 1460,
+                "min_line_length": 291
+            },
+            {
+                "number": "83-109-3525",
+                "max_distance": 2792,
+                "max_cargo_weight": 1441,
+                "min_line_length": 279
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "48-616-5863",
+                "max_distance": 370,
+                "max_cargo_weight": 739,
+                "is_military": true
+            },
+            {
+                "number": "08-039-8383",
+                "max_distance": 578,
+                "max_cargo_weight": 781,
+                "is_military": false
+            },
+            {
+                "number": "04-070-6817",
+                "max_distance": 491,
+                "max_cargo_weight": 706,
+                "is_military": true
+            },
+            {
+                "number": "52-666-2754",
+                "max_distance": 804,
+                "max_cargo_weight": 816,
+                "is_military": false
+            },
+            {
+                "number": "27-003-8482",
+                "max_distance": 605,
+                "max_cargo_weight": 256,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Lifuka Island Airport",
+        "max_aricrafts": 6,
+        "line_length": 313,
+        "planes": [
+            {
+                "number": "29-129-9742",
+                "max_distance": 2642,
+                "max_cargo_weight": 1118,
+                "min_line_length": 365
+            },
+            {
+                "number": "28-543-8735",
+                "max_distance": 2282,
+                "max_cargo_weight": 1035,
+                "min_line_length": 160
+            },
+            {
+                "number": "77-685-2671",
+                "max_distance": 3298,
+                "max_cargo_weight": 1165,
+                "min_line_length": 235
+            },
+            {
+                "number": "81-749-4165",
+                "max_distance": 2274,
+                "max_cargo_weight": 1172,
+                "min_line_length": 399
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "64-040-7480",
+                "max_distance": 790,
+                "max_cargo_weight": 271,
+                "is_military": true
+            },
+            {
+                "number": "64-067-6055",
+                "max_distance": 553,
+                "max_cargo_weight": 248,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Marseille Provence Airport",
+        "max_aricrafts": 8,
+        "line_length": 455,
+        "planes": [
+            {
+                "number": "31-182-6640",
+                "max_distance": 3137,
+                "max_cargo_weight": 1189,
+                "min_line_length": 441
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "73-808-4151",
+                "max_distance": 657,
+                "max_cargo_weight": 404,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Charles de Gaulle International Airport",
+        "max_aricrafts": 9,
+        "line_length": 312,
+        "planes": [
+            {
+                "number": "41-375-8939",
+                "max_distance": 3908,
+                "max_cargo_weight": 1076,
+                "min_line_length": 271
+            },
+            {
+                "number": "47-297-4878",
+                "max_distance": 1984,
+                "max_cargo_weight": 1396,
+                "min_line_length": 134
+            },
+            {
+                "number": "87-269-7034",
+                "max_distance": 3968,
+                "max_cargo_weight": 1330,
+                "min_line_length": 392
+            }
+        ],
+        "helicopters": []
+    },
+    {
+        "name": "Koro Island Airport",
+        "max_aricrafts": null,
+        "line_length": 500,
+        "planes": [
+            {
+                "number": "12-669-8595",
+                "max_distance": 3995,
+                "max_cargo_weight": 1099,
+                "min_line_length": 290
+            },
+            {
+                "number": "20-082-4402",
+                "max_distance": 3772,
+                "max_cargo_weight": 1207,
+                "min_line_length": 160
+            },
+            {
+                "number": "79-494-1057",
+                "max_distance": 2310,
+                "max_cargo_weight": 1462,
+                "min_line_length": 273
+            },
+            {
+                "number": "96-385-5152",
+                "max_distance": 2690,
+                "max_cargo_weight": 1368,
+                "min_line_length": 413
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "71-437-9817",
+                "max_distance": 903,
+                "max_cargo_weight": 662,
+                "is_military": false
+            },
+            {
+                "number": "26-188-3115",
+                "max_distance": 969,
+                "max_cargo_weight": 635,
+                "is_military": true
+            },
+            {
+                "number": "89-605-9444",
+                "max_distance": 340,
+                "max_cargo_weight": 695,
+                "is_military": true
+            },
+            {
+                "number": "15-269-3542",
+                "max_distance": 650,
+                "max_cargo_weight": 972,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Jumla Airport",
+        "max_aricrafts": null,
+        "line_length": 352,
+        "planes": [
+            {
+                "number": "28-696-6218",
+                "max_distance": 1871,
+                "max_cargo_weight": 1287,
+                "min_line_length": 244
+            }
+        ],
+        "helicopters": []
+    },
+    {
+        "name": "Sparrevohn LRRS Airport",
+        "max_aricrafts": 9,
+        "line_length": 260,
+        "planes": [],
+        "helicopters": [
+            {
+                "number": "95-930-7372",
+                "max_distance": 989,
+                "max_cargo_weight": 991,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Moruya Airport",
+        "max_aricrafts": null,
+        "line_length": 264,
+        "planes": [
+            {
+                "number": "79-219-1252",
+                "max_distance": 1292,
+                "max_cargo_weight": 1336,
+                "min_line_length": 123
+            },
+            {
+                "number": "66-219-7924",
+                "max_distance": 1147,
+                "max_cargo_weight": 1383,
+                "min_line_length": 319
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "86-734-6319",
+                "max_distance": 651,
+                "max_cargo_weight": 416,
+                "is_military": true
+            },
+            {
+                "number": "23-589-8793",
+                "max_distance": 742,
+                "max_cargo_weight": 245,
+                "is_military": false
+            },
+            {
+                "number": "73-895-2634",
+                "max_distance": 349,
+                "max_cargo_weight": 683,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Ozona Municipal Airport",
+        "max_aricrafts": 7,
+        "line_length": 346,
+        "planes": [
+            {
+                "number": "43-204-3953",
+                "max_distance": 3698,
+                "max_cargo_weight": 1233,
+                "min_line_length": 489
+            },
+            {
+                "number": "43-484-2664",
+                "max_distance": 2170,
+                "max_cargo_weight": 1449,
+                "min_line_length": 189
+            },
+            {
+                "number": "05-671-3575",
+                "max_distance": 1129,
+                "max_cargo_weight": 1141,
+                "min_line_length": 339
+            },
+            {
+                "number": "77-033-9807",
+                "max_distance": 3087,
+                "max_cargo_weight": 1125,
+                "min_line_length": 297
+            },
+            {
+                "number": "05-534-8368",
+                "max_distance": 2241,
+                "max_cargo_weight": 1230,
+                "min_line_length": 286
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "59-042-4007",
+                "max_distance": 681,
+                "max_cargo_weight": 785,
+                "is_military": false
+            },
+            {
+                "number": "72-417-4091",
+                "max_distance": 687,
+                "max_cargo_weight": 767,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Kimaam Airport",
+        "max_aricrafts": null,
+        "line_length": 378,
+        "planes": [
+            {
+                "number": "50-162-5162",
+                "max_distance": 2403,
+                "max_cargo_weight": 1419,
+                "min_line_length": 205
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "10-927-5810",
+                "max_distance": 487,
+                "max_cargo_weight": 589,
+                "is_military": true
+            },
+            {
+                "number": "65-757-5385",
+                "max_distance": 967,
+                "max_cargo_weight": 289,
+                "is_military": true
+            },
+            {
+                "number": "98-524-5097",
+                "max_distance": 860,
+                "max_cargo_weight": 259,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Grand Forks Air Force Base",
+        "max_aricrafts": null,
+        "line_length": 431,
+        "planes": [
+            {
+                "number": "78-710-8743",
+                "max_distance": 3905,
+                "max_cargo_weight": 1113,
+                "min_line_length": 355
+            },
+            {
+                "number": "17-299-4061",
+                "max_distance": 1663,
+                "max_cargo_weight": 1471,
+                "min_line_length": 415
+            },
+            {
+                "number": "03-510-6794",
+                "max_distance": 3346,
+                "max_cargo_weight": 1136,
+                "min_line_length": 108
+            },
+            {
+                "number": "42-140-1608",
+                "max_distance": 3501,
+                "max_cargo_weight": 1181,
+                "min_line_length": 330
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "50-326-1666",
+                "max_distance": 520,
+                "max_cargo_weight": 323,
+                "is_military": true
+            },
+            {
+                "number": "22-399-0504",
+                "max_distance": 661,
+                "max_cargo_weight": 864,
+                "is_military": false
+            },
+            {
+                "number": "54-278-3490",
+                "max_distance": 254,
+                "max_cargo_weight": 433,
+                "is_military": false
+            },
+            {
+                "number": "61-290-4637",
+                "max_distance": 308,
+                "max_cargo_weight": 409,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Sabah Airport",
+        "max_aricrafts": 5,
+        "line_length": 327,
+        "planes": [],
+        "helicopters": [
+            {
+                "number": "54-382-8269",
+                "max_distance": 712,
+                "max_cargo_weight": 988,
+                "is_military": true
+            },
+            {
+                "number": "96-259-6750",
+                "max_distance": 603,
+                "max_cargo_weight": 433,
+                "is_military": true
+            },
+            {
+                "number": "20-617-7912",
+                "max_distance": 547,
+                "max_cargo_weight": 221,
+                "is_military": false
+            },
+            {
+                "number": "91-957-6892",
+                "max_distance": 679,
+                "max_cargo_weight": 857,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Nonouti Airport",
+        "max_aricrafts": 7,
+        "line_length": 316,
+        "planes": [],
+        "helicopters": [
+            {
+                "number": "22-607-9909",
+                "max_distance": 336,
+                "max_cargo_weight": 771,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Sultan Azlan Shah Airport",
+        "max_aricrafts": null,
+        "line_length": 305,
+        "planes": [],
+        "helicopters": []
+    },
+    {
+        "name": "Wee Waa Airport",
+        "max_aricrafts": 6,
+        "line_length": 318,
+        "planes": [
+            {
+                "number": "70-036-1849",
+                "max_distance": 1638,
+                "max_cargo_weight": 1349,
+                "min_line_length": 467
+            },
+            {
+                "number": "97-001-3106",
+                "max_distance": 3701,
+                "max_cargo_weight": 1267,
+                "min_line_length": 188
+            },
+            {
+                "number": "86-916-5750",
+                "max_distance": 2357,
+                "max_cargo_weight": 1077,
+                "min_line_length": 420
+            },
+            {
+                "number": "75-169-0174",
+                "max_distance": 3446,
+                "max_cargo_weight": 1384,
+                "min_line_length": 257
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "21-465-5139",
+                "max_distance": 857,
+                "max_cargo_weight": 277,
+                "is_military": false
+            },
+            {
+                "number": "32-294-9720",
+                "max_distance": 635,
+                "max_cargo_weight": 557,
+                "is_military": false
+            },
+            {
+                "number": "61-455-7888",
+                "max_distance": 887,
+                "max_cargo_weight": 654,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Egal International Airport",
+        "max_aricrafts": 10,
+        "line_length": 361,
+        "planes": [],
+        "helicopters": [
+            {
+                "number": "27-394-5219",
+                "max_distance": 669,
+                "max_cargo_weight": 429,
+                "is_military": false
+            },
+            {
+                "number": "78-521-3392",
+                "max_distance": 626,
+                "max_cargo_weight": 623,
+                "is_military": true
+            },
+            {
+                "number": "62-658-4920",
+                "max_distance": 446,
+                "max_cargo_weight": 698,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Simikot Airport",
+        "max_aricrafts": 8,
+        "line_length": 386,
+        "planes": [
+            {
+                "number": "37-418-6649",
+                "max_distance": 3887,
+                "max_cargo_weight": 1358,
+                "min_line_length": 100
+            },
+            {
+                "number": "97-858-6082",
+                "max_distance": 1759,
+                "max_cargo_weight": 1210,
+                "min_line_length": 199
+            },
+            {
+                "number": "21-858-0076",
+                "max_distance": 1908,
+                "max_cargo_weight": 1479,
+                "min_line_length": 306
+            },
+            {
+                "number": "92-441-2697",
+                "max_distance": 3008,
+                "max_cargo_weight": 1184,
+                "min_line_length": 354
+            },
+            {
+                "number": "56-677-4106",
+                "max_distance": 2957,
+                "max_cargo_weight": 1157,
+                "min_line_length": 174
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "59-704-2191",
+                "max_distance": 490,
+                "max_cargo_weight": 707,
+                "is_military": true
+            },
+            {
+                "number": "51-434-5863",
+                "max_distance": 349,
+                "max_cargo_weight": 564,
+                "is_military": false
+            },
+            {
+                "number": "18-439-6843",
+                "max_distance": 506,
+                "max_cargo_weight": 912,
+                "is_military": false
+            },
+            {
+                "number": "90-183-3555",
+                "max_distance": 915,
+                "max_cargo_weight": 218,
+                "is_military": false
+            },
+            {
+                "number": "31-428-3221",
+                "max_distance": 585,
+                "max_cargo_weight": 600,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Anderson Regional Airport",
+        "max_aricrafts": 9,
+        "line_length": 411,
+        "planes": [
+            {
+                "number": "40-209-8450",
+                "max_distance": 1438,
+                "max_cargo_weight": 1112,
+                "min_line_length": 330
+            },
+            {
+                "number": "66-982-3556",
+                "max_distance": 2205,
+                "max_cargo_weight": 1437,
+                "min_line_length": 350
+            },
+            {
+                "number": "20-348-2443",
+                "max_distance": 3922,
+                "max_cargo_weight": 1053,
+                "min_line_length": 261
+            },
+            {
+                "number": "41-926-5354",
+                "max_distance": 1782,
+                "max_cargo_weight": 1497,
+                "min_line_length": 443
+            },
+            {
+                "number": "91-654-8790",
+                "max_distance": 1484,
+                "max_cargo_weight": 1415,
+                "min_line_length": 232
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "56-724-1851",
+                "max_distance": 241,
+                "max_cargo_weight": 283,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Ampara Airport",
+        "max_aricrafts": 9,
+        "line_length": 376,
+        "planes": [
+            {
+                "number": "47-888-9891",
+                "max_distance": 2803,
+                "max_cargo_weight": 1481,
+                "min_line_length": 403
+            },
+            {
+                "number": "04-790-1011",
+                "max_distance": 1452,
+                "max_cargo_weight": 1330,
+                "min_line_length": 208
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "07-406-4287",
+                "max_distance": 365,
+                "max_cargo_weight": 793,
+                "is_military": false
+            },
+            {
+                "number": "23-619-0034",
+                "max_distance": 245,
+                "max_cargo_weight": 254,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Naval Outlying Field Imperial Beach (Ream Field)",
+        "max_aricrafts": 5,
+        "line_length": 325,
+        "planes": [
+            {
+                "number": "53-750-0553",
+                "max_distance": 3181,
+                "max_cargo_weight": 1454,
+                "min_line_length": 100
+            },
+            {
+                "number": "23-162-1864",
+                "max_distance": 3735,
+                "max_cargo_weight": 1423,
+                "min_line_length": 283
+            },
+            {
+                "number": "74-608-1569",
+                "max_distance": 3602,
+                "max_cargo_weight": 1238,
+                "min_line_length": 250
+            }
+        ],
+        "helicopters": []
+    },
+    {
+        "name": "Binaka Airport",
+        "max_aricrafts": 8,
+        "line_length": 273,
+        "planes": [
+            {
+                "number": "01-956-3557",
+                "max_distance": 3768,
+                "max_cargo_weight": 1013,
+                "min_line_length": 369
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "02-882-2521",
+                "max_distance": 701,
+                "max_cargo_weight": 623,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Ramon Air Base",
+        "max_aricrafts": 10,
+        "line_length": 406,
+        "planes": [
+            {
+                "number": "46-693-2855",
+                "max_distance": 1538,
+                "max_cargo_weight": 1073,
+                "min_line_length": 195
+            },
+            {
+                "number": "37-709-8498",
+                "max_distance": 2669,
+                "max_cargo_weight": 1272,
+                "min_line_length": 496
+            },
+            {
+                "number": "68-064-4721",
+                "max_distance": 3883,
+                "max_cargo_weight": 1077,
+                "min_line_length": 313
+            },
+            {
+                "number": "48-409-9091",
+                "max_distance": 3441,
+                "max_cargo_weight": 1406,
+                "min_line_length": 366
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "24-269-4761",
+                "max_distance": 940,
+                "max_cargo_weight": 790,
+                "is_military": false
+            },
+            {
+                "number": "21-499-7468",
+                "max_distance": 515,
+                "max_cargo_weight": 350,
+                "is_military": false
+            },
+            {
+                "number": "02-249-7744",
+                "max_distance": 344,
+                "max_cargo_weight": 481,
+                "is_military": false
+            },
+            {
+                "number": "28-118-1156",
+                "max_distance": 914,
+                "max_cargo_weight": 652,
+                "is_military": true
+            },
+            {
+                "number": "38-986-5303",
+                "max_distance": 536,
+                "max_cargo_weight": 455,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Mount Etjo Airport",
+        "max_aricrafts": null,
+        "line_length": 427,
+        "planes": [
+            {
+                "number": "29-252-1138",
+                "max_distance": 3012,
+                "max_cargo_weight": 1179,
+                "min_line_length": 457
+            },
+            {
+                "number": "82-738-6267",
+                "max_distance": 3625,
+                "max_cargo_weight": 1265,
+                "min_line_length": 239
+            },
+            {
+                "number": "66-157-5494",
+                "max_distance": 2845,
+                "max_cargo_weight": 1183,
+                "min_line_length": 440
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "24-193-0950",
+                "max_distance": 957,
+                "max_cargo_weight": 793,
+                "is_military": true
+            },
+            {
+                "number": "43-889-1093",
+                "max_distance": 413,
+                "max_cargo_weight": 531,
+                "is_military": true
+            },
+            {
+                "number": "22-141-5879",
+                "max_distance": 594,
+                "max_cargo_weight": 438,
+                "is_military": false
+            },
+            {
+                "number": "97-829-6560",
+                "max_distance": 960,
+                "max_cargo_weight": 548,
+                "is_military": true
+            },
+            {
+                "number": "87-577-2951",
+                "max_distance": 810,
+                "max_cargo_weight": 371,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Kuwait International Airport",
+        "max_aricrafts": 9,
+        "line_length": 344,
+        "planes": [
+            {
+                "number": "65-428-8585",
+                "max_distance": 1979,
+                "max_cargo_weight": 1308,
+                "min_line_length": 472
+            },
+            {
+                "number": "79-996-5243",
+                "max_distance": 1634,
+                "max_cargo_weight": 1034,
+                "min_line_length": 419
+            },
+            {
+                "number": "99-055-2132",
+                "max_distance": 1304,
+                "max_cargo_weight": 1335,
+                "min_line_length": 361
+            },
+            {
+                "number": "08-566-9852",
+                "max_distance": 2099,
+                "max_cargo_weight": 1248,
+                "min_line_length": 289
+            },
+            {
+                "number": "07-212-6209",
+                "max_distance": 3785,
+                "max_cargo_weight": 1266,
+                "min_line_length": 478
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "23-883-1803",
+                "max_distance": 615,
+                "max_cargo_weight": 919,
+                "is_military": false
+            },
+            {
+                "number": "37-677-9446",
+                "max_distance": 360,
+                "max_cargo_weight": 411,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Bermuda Dunes Airport",
+        "max_aricrafts": 8,
+        "line_length": 254,
+        "planes": [
+            {
+                "number": "45-453-6797",
+                "max_distance": 1473,
+                "max_cargo_weight": 1236,
+                "min_line_length": 405
+            },
+            {
+                "number": "40-491-2040",
+                "max_distance": 2417,
+                "max_cargo_weight": 1262,
+                "min_line_length": 282
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "38-313-6112",
+                "max_distance": 329,
+                "max_cargo_weight": 379,
+                "is_military": false
+            },
+            {
+                "number": "27-226-0756",
+                "max_distance": 800,
+                "max_cargo_weight": 460,
+                "is_military": true
+            },
+            {
+                "number": "36-086-1835",
+                "max_distance": 350,
+                "max_cargo_weight": 663,
+                "is_military": true
+            },
+            {
+                "number": "98-961-6041",
+                "max_distance": 931,
+                "max_cargo_weight": 265,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Zakuoma Airport",
+        "max_aricrafts": null,
+        "line_length": 311,
+        "planes": [
+            {
+                "number": "46-933-3250",
+                "max_distance": 3098,
+                "max_cargo_weight": 1189,
+                "min_line_length": 366
+            },
+            {
+                "number": "70-262-4642",
+                "max_distance": 1970,
+                "max_cargo_weight": 1412,
+                "min_line_length": 366
+            },
+            {
+                "number": "82-199-0320",
+                "max_distance": 1368,
+                "max_cargo_weight": 1041,
+                "min_line_length": 441
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "82-787-8556",
+                "max_distance": 633,
+                "max_cargo_weight": 443,
+                "is_military": false
+            },
+            {
+                "number": "33-216-8445",
+                "max_distance": 636,
+                "max_cargo_weight": 211,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Erenhot Saiwusu International Airport",
+        "max_aricrafts": 7,
+        "line_length": 494,
+        "planes": [],
+        "helicopters": [
+            {
+                "number": "25-841-1500",
+                "max_distance": 968,
+                "max_cargo_weight": 846,
+                "is_military": false
+            },
+            {
+                "number": "65-489-0214",
+                "max_distance": 714,
+                "max_cargo_weight": 792,
+                "is_military": false
+            },
+            {
+                "number": "57-962-4352",
+                "max_distance": 490,
+                "max_cargo_weight": 439,
+                "is_military": true
+            },
+            {
+                "number": "53-823-8083",
+                "max_distance": 432,
+                "max_cargo_weight": 343,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Peter O Knight Airport",
+        "max_aricrafts": null,
+        "line_length": 446,
+        "planes": [
+            {
+                "number": "75-766-0438",
+                "max_distance": 3936,
+                "max_cargo_weight": 1482,
+                "min_line_length": 196
+            },
+            {
+                "number": "22-424-1301",
+                "max_distance": 2290,
+                "max_cargo_weight": 1386,
+                "min_line_length": 266
+            },
+            {
+                "number": "70-465-8007",
+                "max_distance": 1918,
+                "max_cargo_weight": 1229,
+                "min_line_length": 317
+            },
+            {
+                "number": "43-111-9651",
+                "max_distance": 2914,
+                "max_cargo_weight": 1271,
+                "min_line_length": 349
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "41-267-2659",
+                "max_distance": 488,
+                "max_cargo_weight": 613,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Downtown Airpark",
+        "max_aricrafts": null,
+        "line_length": 304,
+        "planes": [
+            {
+                "number": "63-614-0916",
+                "max_distance": 1055,
+                "max_cargo_weight": 1169,
+                "min_line_length": 235
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "62-406-7702",
+                "max_distance": 755,
+                "max_cargo_weight": 685,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Roxas Airport",
+        "max_aricrafts": 5,
+        "line_length": 468,
+        "planes": [
+            {
+                "number": "38-837-0623",
+                "max_distance": 1313,
+                "max_cargo_weight": 1121,
+                "min_line_length": 444
+            },
+            {
+                "number": "82-169-3939",
+                "max_distance": 1682,
+                "max_cargo_weight": 1104,
+                "min_line_length": 293
+            },
+            {
+                "number": "14-508-6978",
+                "max_distance": 1052,
+                "max_cargo_weight": 1255,
+                "min_line_length": 457
+            },
+            {
+                "number": "70-837-5759",
+                "max_distance": 2188,
+                "max_cargo_weight": 1017,
+                "min_line_length": 222
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "34-830-1885",
+                "max_distance": 953,
+                "max_cargo_weight": 335,
+                "is_military": true
+            },
+            {
+                "number": "69-196-7352",
+                "max_distance": 261,
+                "max_cargo_weight": 571,
+                "is_military": true
+            },
+            {
+                "number": "75-759-9524",
+                "max_distance": 541,
+                "max_cargo_weight": 883,
+                "is_military": false
+            },
+            {
+                "number": "31-480-5212",
+                "max_distance": 689,
+                "max_cargo_weight": 548,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Vermilion Regional Airport",
+        "max_aricrafts": 7,
+        "line_length": 343,
+        "planes": [
+            {
+                "number": "10-328-3721",
+                "max_distance": 2204,
+                "max_cargo_weight": 1160,
+                "min_line_length": 497
+            },
+            {
+                "number": "68-650-4241",
+                "max_distance": 2251,
+                "max_cargo_weight": 1320,
+                "min_line_length": 237
+            },
+            {
+                "number": "37-756-4130",
+                "max_distance": 3267,
+                "max_cargo_weight": 1029,
+                "min_line_length": 303
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "04-746-4154",
+                "max_distance": 570,
+                "max_cargo_weight": 777,
+                "is_military": true
+            },
+            {
+                "number": "69-109-4575",
+                "max_distance": 850,
+                "max_cargo_weight": 934,
+                "is_military": true
+            },
+            {
+                "number": "96-144-7325",
+                "max_distance": 563,
+                "max_cargo_weight": 743,
+                "is_military": false
+            },
+            {
+                "number": "22-266-7707",
+                "max_distance": 295,
+                "max_cargo_weight": 776,
+                "is_military": true
+            },
+            {
+                "number": "95-219-0169",
+                "max_distance": 534,
+                "max_cargo_weight": 208,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Butaritari Atoll Airport",
+        "max_aricrafts": 10,
+        "line_length": 266,
+        "planes": [
+            {
+                "number": "65-514-4283",
+                "max_distance": 3238,
+                "max_cargo_weight": 1284,
+                "min_line_length": 305
+            },
+            {
+                "number": "51-243-3454",
+                "max_distance": 1790,
+                "max_cargo_weight": 1341,
+                "min_line_length": 235
+            },
+            {
+                "number": "16-248-2305",
+                "max_distance": 3563,
+                "max_cargo_weight": 1474,
+                "min_line_length": 489
+            },
+            {
+                "number": "56-554-8975",
+                "max_distance": 1768,
+                "max_cargo_weight": 1256,
+                "min_line_length": 221
+            },
+            {
+                "number": "91-382-6485",
+                "max_distance": 2814,
+                "max_cargo_weight": 1009,
+                "min_line_length": 299
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "96-299-8487",
+                "max_distance": 469,
+                "max_cargo_weight": 923,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Torres Airport",
+        "max_aricrafts": 7,
+        "line_length": 456,
+        "planes": [
+            {
+                "number": "30-335-7971",
+                "max_distance": 2594,
+                "max_cargo_weight": 1066,
+                "min_line_length": 319
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "51-364-4057",
+                "max_distance": 468,
+                "max_cargo_weight": 399,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Bob Baker Memorial Airport",
+        "max_aricrafts": 8,
+        "line_length": 444,
+        "planes": [
+            {
+                "number": "61-171-4810",
+                "max_distance": 1572,
+                "max_cargo_weight": 1048,
+                "min_line_length": 261
+            },
+            {
+                "number": "58-113-1068",
+                "max_distance": 2834,
+                "max_cargo_weight": 1289,
+                "min_line_length": 293
+            },
+            {
+                "number": "67-271-7630",
+                "max_distance": 1575,
+                "max_cargo_weight": 1351,
+                "min_line_length": 102
+            }
+        ],
+        "helicopters": []
+    },
+    {
+        "name": "Gilgit Airport",
+        "max_aricrafts": null,
+        "line_length": 260,
+        "planes": [],
+        "helicopters": [
+            {
+                "number": "69-194-0665",
+                "max_distance": 323,
+                "max_cargo_weight": 253,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "San Pedro Airport",
+        "max_aricrafts": 9,
+        "line_length": 471,
+        "planes": [
+            {
+                "number": "66-719-4398",
+                "max_distance": 1803,
+                "max_cargo_weight": 1353,
+                "min_line_length": 140
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "24-447-0728",
+                "max_distance": 902,
+                "max_cargo_weight": 431,
+                "is_military": false
+            },
+            {
+                "number": "40-753-6973",
+                "max_distance": 344,
+                "max_cargo_weight": 764,
+                "is_military": false
+            },
+            {
+                "number": "15-679-0701",
+                "max_distance": 698,
+                "max_cargo_weight": 431,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Waukegan National Airport",
+        "max_aricrafts": 7,
+        "line_length": 260,
+        "planes": [
+            {
+                "number": "62-525-6534",
+                "max_distance": 1250,
+                "max_cargo_weight": 1134,
+                "min_line_length": 189
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "22-506-4927",
+                "max_distance": 278,
+                "max_cargo_weight": 677,
+                "is_military": true
+            },
+            {
+                "number": "16-754-0336",
+                "max_distance": 212,
+                "max_cargo_weight": 225,
+                "is_military": false
+            },
+            {
+                "number": "65-847-4333",
+                "max_distance": 437,
+                "max_cargo_weight": 995,
+                "is_military": false
+            },
+            {
+                "number": "99-296-4008",
+                "max_distance": 998,
+                "max_cargo_weight": 714,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Vestmannaeyjar Airport",
+        "max_aricrafts": 10,
+        "line_length": 274,
+        "planes": [
+            {
+                "number": "25-308-7194",
+                "max_distance": 2828,
+                "max_cargo_weight": 1408,
+                "min_line_length": 460
+            },
+            {
+                "number": "59-432-5944",
+                "max_distance": 3627,
+                "max_cargo_weight": 1499,
+                "min_line_length": 490
+            },
+            {
+                "number": "31-718-3917",
+                "max_distance": 2699,
+                "max_cargo_weight": 1153,
+                "min_line_length": 343
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "01-709-6830",
+                "max_distance": 943,
+                "max_cargo_weight": 591,
+                "is_military": true
+            },
+            {
+                "number": "91-312-7486",
+                "max_distance": 221,
+                "max_cargo_weight": 243,
+                "is_military": true
+            },
+            {
+                "number": "94-188-5378",
+                "max_distance": 666,
+                "max_cargo_weight": 433,
+                "is_military": false
+            },
+            {
+                "number": "36-625-5330",
+                "max_distance": 328,
+                "max_cargo_weight": 445,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Kufra Airport",
+        "max_aricrafts": 6,
+        "line_length": 348,
+        "planes": [
+            {
+                "number": "41-755-7699",
+                "max_distance": 3152,
+                "max_cargo_weight": 1196,
+                "min_line_length": 396
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "09-719-0393",
+                "max_distance": 233,
+                "max_cargo_weight": 612,
+                "is_military": true
+            },
+            {
+                "number": "15-320-0732",
+                "max_distance": 547,
+                "max_cargo_weight": 489,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "José Martí International Airport",
+        "max_aricrafts": null,
+        "line_length": 301,
+        "planes": [],
+        "helicopters": []
+    },
+    {
+        "name": "Nordholz Naval Airbase",
+        "max_aricrafts": null,
+        "line_length": 329,
+        "planes": [
+            {
+                "number": "01-976-0053",
+                "max_distance": 3956,
+                "max_cargo_weight": 1346,
+                "min_line_length": 105
+            },
+            {
+                "number": "59-068-0207",
+                "max_distance": 3359,
+                "max_cargo_weight": 1168,
+                "min_line_length": 390
+            },
+            {
+                "number": "72-838-6411",
+                "max_distance": 3514,
+                "max_cargo_weight": 1101,
+                "min_line_length": 209
+            },
+            {
+                "number": "32-194-6801",
+                "max_distance": 3554,
+                "max_cargo_weight": 1350,
+                "min_line_length": 197
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "42-470-4503",
+                "max_distance": 988,
+                "max_cargo_weight": 516,
+                "is_military": false
+            },
+            {
+                "number": "91-887-3322",
+                "max_distance": 521,
+                "max_cargo_weight": 363,
+                "is_military": true
+            },
+            {
+                "number": "41-318-6279",
+                "max_distance": 786,
+                "max_cargo_weight": 558,
+                "is_military": true
+            },
+            {
+                "number": "40-678-7354",
+                "max_distance": 675,
+                "max_cargo_weight": 542,
+                "is_military": true
+            },
+            {
+                "number": "48-475-7765",
+                "max_distance": 523,
+                "max_cargo_weight": 479,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Kipnuk Airport",
+        "max_aricrafts": null,
+        "line_length": 230,
+        "planes": [],
+        "helicopters": [
+            {
+                "number": "36-835-1861",
+                "max_distance": 679,
+                "max_cargo_weight": 244,
+                "is_military": false
+            },
+            {
+                "number": "66-649-1478",
+                "max_distance": 908,
+                "max_cargo_weight": 383,
+                "is_military": false
+            },
+            {
+                "number": "05-266-9070",
+                "max_distance": 596,
+                "max_cargo_weight": 715,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Kosti Airport",
+        "max_aricrafts": null,
+        "line_length": 296,
+        "planes": [
+            {
+                "number": "89-459-0329",
+                "max_distance": 1665,
+                "max_cargo_weight": 1165,
+                "min_line_length": 171
+            },
+            {
+                "number": "22-851-8457",
+                "max_distance": 1146,
+                "max_cargo_weight": 1422,
+                "min_line_length": 222
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "75-643-8589",
+                "max_distance": 373,
+                "max_cargo_weight": 229,
+                "is_military": true
+            },
+            {
+                "number": "11-790-0686",
+                "max_distance": 585,
+                "max_cargo_weight": 733,
+                "is_military": false
+            },
+            {
+                "number": "78-248-2259",
+                "max_distance": 720,
+                "max_cargo_weight": 880,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Hawke's Bay Airport",
+        "max_aricrafts": null,
+        "line_length": 278,
+        "planes": [
+            {
+                "number": "93-581-3348",
+                "max_distance": 2194,
+                "max_cargo_weight": 1082,
+                "min_line_length": 338
+            }
+        ],
+        "helicopters": []
+    },
+    {
+        "name": "Hughes Airport",
+        "max_aricrafts": 10,
+        "line_length": 359,
+        "planes": [
+            {
+                "number": "48-325-1688",
+                "max_distance": 2977,
+                "max_cargo_weight": 1227,
+                "min_line_length": 134
+            },
+            {
+                "number": "14-676-9734",
+                "max_distance": 2417,
+                "max_cargo_weight": 1357,
+                "min_line_length": 197
+            },
+            {
+                "number": "61-591-7418",
+                "max_distance": 2034,
+                "max_cargo_weight": 1283,
+                "min_line_length": 481
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "27-908-1488",
+                "max_distance": 903,
+                "max_cargo_weight": 754,
+                "is_military": false
+            },
+            {
+                "number": "89-521-6398",
+                "max_distance": 328,
+                "max_cargo_weight": 753,
+                "is_military": false
+            },
+            {
+                "number": "22-312-7401",
+                "max_distance": 353,
+                "max_cargo_weight": 996,
+                "is_military": true
+            },
+            {
+                "number": "21-427-6062",
+                "max_distance": 949,
+                "max_cargo_weight": 773,
+                "is_military": false
+            },
+            {
+                "number": "41-290-5517",
+                "max_distance": 573,
+                "max_cargo_weight": 204,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "South Cariboo Region / 108 Mile Airport",
+        "max_aricrafts": 7,
+        "line_length": 480,
+        "planes": [],
+        "helicopters": [
+            {
+                "number": "53-149-3072",
+                "max_distance": 294,
+                "max_cargo_weight": 634,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "White Mountain Airport",
+        "max_aricrafts": null,
+        "line_length": 223,
+        "planes": [
+            {
+                "number": "83-869-0580",
+                "max_distance": 1618,
+                "max_cargo_weight": 1381,
+                "min_line_length": 396
+            },
+            {
+                "number": "50-409-2198",
+                "max_distance": 3857,
+                "max_cargo_weight": 1331,
+                "min_line_length": 154
+            },
+            {
+                "number": "51-509-7909",
+                "max_distance": 2459,
+                "max_cargo_weight": 1419,
+                "min_line_length": 162
+            },
+            {
+                "number": "49-717-8231",
+                "max_distance": 2727,
+                "max_cargo_weight": 1495,
+                "min_line_length": 392
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "84-384-5119",
+                "max_distance": 735,
+                "max_cargo_weight": 825,
+                "is_military": true
+            },
+            {
+                "number": "96-390-7424",
+                "max_distance": 940,
+                "max_cargo_weight": 983,
+                "is_military": false
+            },
+            {
+                "number": "90-374-5311",
+                "max_distance": 377,
+                "max_cargo_weight": 409,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "El Loa Airport",
+        "max_aricrafts": 9,
+        "line_length": 385,
+        "planes": [],
+        "helicopters": []
+    },
+    {
+        "name": "Laguna Airport",
+        "max_aricrafts": 7,
+        "line_length": 367,
+        "planes": [
+            {
+                "number": "22-213-4420",
+                "max_distance": 1312,
+                "max_cargo_weight": 1096,
+                "min_line_length": 208
+            },
+            {
+                "number": "76-964-6950",
+                "max_distance": 2104,
+                "max_cargo_weight": 1371,
+                "min_line_length": 281
+            },
+            {
+                "number": "48-991-3790",
+                "max_distance": 1049,
+                "max_cargo_weight": 1022,
+                "min_line_length": 475
+            },
+            {
+                "number": "43-682-3151",
+                "max_distance": 3885,
+                "max_cargo_weight": 1381,
+                "min_line_length": 233
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "27-414-6051",
+                "max_distance": 433,
+                "max_cargo_weight": 513,
+                "is_military": true
+            },
+            {
+                "number": "00-532-0928",
+                "max_distance": 396,
+                "max_cargo_weight": 379,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Flores Airport",
+        "max_aricrafts": 7,
+        "line_length": 277,
+        "planes": [
+            {
+                "number": "55-837-2260",
+                "max_distance": 2724,
+                "max_cargo_weight": 1180,
+                "min_line_length": 433
+            },
+            {
+                "number": "65-274-6285",
+                "max_distance": 3543,
+                "max_cargo_weight": 1196,
+                "min_line_length": 176
+            },
+            {
+                "number": "20-892-5872",
+                "max_distance": 3580,
+                "max_cargo_weight": 1342,
+                "min_line_length": 414
+            },
+            {
+                "number": "52-504-7209",
+                "max_distance": 2088,
+                "max_cargo_weight": 1471,
+                "min_line_length": 206
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "80-540-9713",
+                "max_distance": 299,
+                "max_cargo_weight": 321,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Nenana Municipal Airport",
+        "max_aricrafts": 6,
+        "line_length": 304,
+        "planes": [
+            {
+                "number": "56-782-5339",
+                "max_distance": 2123,
+                "max_cargo_weight": 1131,
+                "min_line_length": 104
+            },
+            {
+                "number": "03-643-9482",
+                "max_distance": 2389,
+                "max_cargo_weight": 1032,
+                "min_line_length": 364
+            },
+            {
+                "number": "92-334-0117",
+                "max_distance": 2302,
+                "max_cargo_weight": 1494,
+                "min_line_length": 233
+            },
+            {
+                "number": "08-196-0884",
+                "max_distance": 2342,
+                "max_cargo_weight": 1044,
+                "min_line_length": 376
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "52-564-7944",
+                "max_distance": 684,
+                "max_cargo_weight": 622,
+                "is_military": false
+            },
+            {
+                "number": "85-932-5249",
+                "max_distance": 711,
+                "max_cargo_weight": 251,
+                "is_military": false
+            },
+            {
+                "number": "60-507-6746",
+                "max_distance": 341,
+                "max_cargo_weight": 606,
+                "is_military": true
+            },
+            {
+                "number": "48-939-5100",
+                "max_distance": 680,
+                "max_cargo_weight": 978,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Aalborg Airport",
+        "max_aricrafts": null,
+        "line_length": 390,
+        "planes": [],
+        "helicopters": [
+            {
+                "number": "03-953-1166",
+                "max_distance": 870,
+                "max_cargo_weight": 472,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Oceanside Municipal Airport",
+        "max_aricrafts": 8,
+        "line_length": 291,
+        "planes": [
+            {
+                "number": "60-671-9609",
+                "max_distance": 1560,
+                "max_cargo_weight": 1028,
+                "min_line_length": 292
+            },
+            {
+                "number": "14-298-1540",
+                "max_distance": 2260,
+                "max_cargo_weight": 1356,
+                "min_line_length": 304
+            },
+            {
+                "number": "11-914-9362",
+                "max_distance": 2731,
+                "max_cargo_weight": 1033,
+                "min_line_length": 356
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "84-835-5662",
+                "max_distance": 222,
+                "max_cargo_weight": 401,
+                "is_military": true
+            },
+            {
+                "number": "39-713-0252",
+                "max_distance": 624,
+                "max_cargo_weight": 434,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Evans Head Aerodrome",
+        "max_aricrafts": 10,
+        "line_length": 454,
+        "planes": [
+            {
+                "number": "99-912-7334",
+                "max_distance": 1640,
+                "max_cargo_weight": 1496,
+                "min_line_length": 278
+            },
+            {
+                "number": "35-393-4472",
+                "max_distance": 3938,
+                "max_cargo_weight": 1278,
+                "min_line_length": 300
+            },
+            {
+                "number": "12-253-6668",
+                "max_distance": 3472,
+                "max_cargo_weight": 1102,
+                "min_line_length": 105
+            },
+            {
+                "number": "65-608-5768",
+                "max_distance": 3282,
+                "max_cargo_weight": 1036,
+                "min_line_length": 427
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "09-062-1801",
+                "max_distance": 828,
+                "max_cargo_weight": 340,
+                "is_military": true
+            },
+            {
+                "number": "53-590-3486",
+                "max_distance": 409,
+                "max_cargo_weight": 809,
+                "is_military": true
+            },
+            {
+                "number": "29-012-4426",
+                "max_distance": 972,
+                "max_cargo_weight": 271,
+                "is_military": true
+            },
+            {
+                "number": "80-663-6070",
+                "max_distance": 369,
+                "max_cargo_weight": 394,
+                "is_military": false
+            },
+            {
+                "number": "37-610-7437",
+                "max_distance": 240,
+                "max_cargo_weight": 832,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Cap Skirring Airport",
+        "max_aricrafts": 5,
+        "line_length": 455,
+        "planes": [
+            {
+                "number": "92-121-6500",
+                "max_distance": 3560,
+                "max_cargo_weight": 1481,
+                "min_line_length": 496
+            },
+            {
+                "number": "79-650-9573",
+                "max_distance": 3945,
+                "max_cargo_weight": 1057,
+                "min_line_length": 441
+            },
+            {
+                "number": "18-467-3137",
+                "max_distance": 1173,
+                "max_cargo_weight": 1062,
+                "min_line_length": 202
+            },
+            {
+                "number": "75-729-9347",
+                "max_distance": 1259,
+                "max_cargo_weight": 1277,
+                "min_line_length": 385
+            },
+            {
+                "number": "61-032-9667",
+                "max_distance": 2261,
+                "max_cargo_weight": 1223,
+                "min_line_length": 235
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "43-404-4842",
+                "max_distance": 589,
+                "max_cargo_weight": 618,
+                "is_military": true
+            },
+            {
+                "number": "23-032-0335",
+                "max_distance": 533,
+                "max_cargo_weight": 415,
+                "is_military": true
+            },
+            {
+                "number": "98-284-8255",
+                "max_distance": 623,
+                "max_cargo_weight": 992,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Aguenar – Hadj Bey Akhamok Airport",
+        "max_aricrafts": null,
+        "line_length": 337,
+        "planes": [
+            {
+                "number": "06-776-5176",
+                "max_distance": 3706,
+                "max_cargo_weight": 1021,
+                "min_line_length": 217
+            },
+            {
+                "number": "46-512-6852",
+                "max_distance": 3318,
+                "max_cargo_weight": 1396,
+                "min_line_length": 430
+            },
+            {
+                "number": "90-692-2972",
+                "max_distance": 1428,
+                "max_cargo_weight": 1286,
+                "min_line_length": 471
+            },
+            {
+                "number": "97-157-0636",
+                "max_distance": 3407,
+                "max_cargo_weight": 1440,
+                "min_line_length": 294
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "41-975-7159",
+                "max_distance": 865,
+                "max_cargo_weight": 858,
+                "is_military": true
+            },
+            {
+                "number": "63-282-4928",
+                "max_distance": 416,
+                "max_cargo_weight": 318,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Bandırma Airport",
+        "max_aricrafts": 7,
+        "line_length": 233,
+        "planes": [
+            {
+                "number": "35-514-3729",
+                "max_distance": 1447,
+                "max_cargo_weight": 1473,
+                "min_line_length": 457
+            },
+            {
+                "number": "52-845-8377",
+                "max_distance": 2791,
+                "max_cargo_weight": 1058,
+                "min_line_length": 323
+            },
+            {
+                "number": "42-254-8089",
+                "max_distance": 2123,
+                "max_cargo_weight": 1076,
+                "min_line_length": 135
+            },
+            {
+                "number": "54-505-2221",
+                "max_distance": 2188,
+                "max_cargo_weight": 1411,
+                "min_line_length": 298
+            },
+            {
+                "number": "99-676-0487",
+                "max_distance": 3907,
+                "max_cargo_weight": 1458,
+                "min_line_length": 493
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "29-892-2802",
+                "max_distance": 803,
+                "max_cargo_weight": 747,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Ust-Kuyga Airport",
+        "max_aricrafts": null,
+        "line_length": 233,
+        "planes": [
+            {
+                "number": "13-970-8200",
+                "max_distance": 1019,
+                "max_cargo_weight": 1238,
+                "min_line_length": 188
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "62-133-9152",
+                "max_distance": 376,
+                "max_cargo_weight": 789,
+                "is_military": false
+            },
+            {
+                "number": "78-669-4330",
+                "max_distance": 483,
+                "max_cargo_weight": 785,
+                "is_military": false
+            },
+            {
+                "number": "70-800-3887",
+                "max_distance": 524,
+                "max_cargo_weight": 993,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Bassel Al-Assad International Airport",
+        "max_aricrafts": null,
+        "line_length": 410,
+        "planes": [
+            {
+                "number": "93-092-4079",
+                "max_distance": 3463,
+                "max_cargo_weight": 1004,
+                "min_line_length": 312
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "59-938-7730",
+                "max_distance": 276,
+                "max_cargo_weight": 717,
+                "is_military": false
+            },
+            {
+                "number": "39-822-8595",
+                "max_distance": 243,
+                "max_cargo_weight": 716,
+                "is_military": false
+            },
+            {
+                "number": "84-845-2776",
+                "max_distance": 401,
+                "max_cargo_weight": 828,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Nnamdi Azikiwe International Airport",
+        "max_aricrafts": 9,
+        "line_length": 310,
+        "planes": [
+            {
+                "number": "99-570-0772",
+                "max_distance": 2881,
+                "max_cargo_weight": 1143,
+                "min_line_length": 454
+            },
+            {
+                "number": "04-063-9696",
+                "max_distance": 2700,
+                "max_cargo_weight": 1489,
+                "min_line_length": 159
+            },
+            {
+                "number": "74-956-0237",
+                "max_distance": 2140,
+                "max_cargo_weight": 1239,
+                "min_line_length": 140
+            },
+            {
+                "number": "20-617-3556",
+                "max_distance": 1336,
+                "max_cargo_weight": 1395,
+                "min_line_length": 321
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "95-675-3298",
+                "max_distance": 903,
+                "max_cargo_weight": 317,
+                "is_military": true
+            },
+            {
+                "number": "37-753-9958",
+                "max_distance": 346,
+                "max_cargo_weight": 924,
+                "is_military": false
+            },
+            {
+                "number": "64-849-5938",
+                "max_distance": 797,
+                "max_cargo_weight": 762,
+                "is_military": false
+            },
+            {
+                "number": "95-948-5833",
+                "max_distance": 1000,
+                "max_cargo_weight": 467,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Gassim Airport",
+        "max_aricrafts": 9,
+        "line_length": 327,
+        "planes": [
+            {
+                "number": "52-854-8600",
+                "max_distance": 2750,
+                "max_cargo_weight": 1221,
+                "min_line_length": 173
+            },
+            {
+                "number": "85-459-0394",
+                "max_distance": 2200,
+                "max_cargo_weight": 1140,
+                "min_line_length": 162
+            },
+            {
+                "number": "36-542-0989",
+                "max_distance": 3381,
+                "max_cargo_weight": 1405,
+                "min_line_length": 432
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "52-694-1433",
+                "max_distance": 660,
+                "max_cargo_weight": 898,
+                "is_military": false
+            },
+            {
+                "number": "46-897-3168",
+                "max_distance": 797,
+                "max_cargo_weight": 769,
+                "is_military": true
+            },
+            {
+                "number": "96-995-6774",
+                "max_distance": 939,
+                "max_cargo_weight": 286,
+                "is_military": true
+            },
+            {
+                "number": "34-365-0695",
+                "max_distance": 872,
+                "max_cargo_weight": 220,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Arad International Airport",
+        "max_aricrafts": 8,
+        "line_length": 480,
+        "planes": [
+            {
+                "number": "64-540-5742",
+                "max_distance": 1052,
+                "max_cargo_weight": 1287,
+                "min_line_length": 281
+            },
+            {
+                "number": "44-573-9695",
+                "max_distance": 1515,
+                "max_cargo_weight": 1472,
+                "min_line_length": 129
+            },
+            {
+                "number": "12-619-0522",
+                "max_distance": 1739,
+                "max_cargo_weight": 1407,
+                "min_line_length": 441
+            },
+            {
+                "number": "67-398-4718",
+                "max_distance": 2531,
+                "max_cargo_weight": 1152,
+                "min_line_length": 409
+            },
+            {
+                "number": "32-646-2607",
+                "max_distance": 2927,
+                "max_cargo_weight": 1338,
+                "min_line_length": 221
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "88-903-2527",
+                "max_distance": 236,
+                "max_cargo_weight": 313,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Robinson River Airport",
+        "max_aricrafts": 5,
+        "line_length": 468,
+        "planes": [
+            {
+                "number": "99-307-7088",
+                "max_distance": 3696,
+                "max_cargo_weight": 1359,
+                "min_line_length": 294
+            },
+            {
+                "number": "09-850-8013",
+                "max_distance": 3434,
+                "max_cargo_weight": 1013,
+                "min_line_length": 111
+            }
+        ],
+        "helicopters": []
+    },
+    {
+        "name": "Mersa Matruh Airport",
+        "max_aricrafts": null,
+        "line_length": 416,
+        "planes": [
+            {
+                "number": "36-259-1577",
+                "max_distance": 1114,
+                "max_cargo_weight": 1197,
+                "min_line_length": 237
+            },
+            {
+                "number": "81-552-5084",
+                "max_distance": 2295,
+                "max_cargo_weight": 1273,
+                "min_line_length": 374
+            }
+        ],
+        "helicopters": []
+    },
+    {
+        "name": "Orbost Airport",
+        "max_aricrafts": 7,
+        "line_length": 245,
+        "planes": [
+            {
+                "number": "44-918-9960",
+                "max_distance": 3431,
+                "max_cargo_weight": 1240,
+                "min_line_length": 351
+            },
+            {
+                "number": "01-742-9087",
+                "max_distance": 3913,
+                "max_cargo_weight": 1436,
+                "min_line_length": 486
+            },
+            {
+                "number": "84-328-8632",
+                "max_distance": 3282,
+                "max_cargo_weight": 1259,
+                "min_line_length": 197
+            },
+            {
+                "number": "01-883-4725",
+                "max_distance": 3800,
+                "max_cargo_weight": 1234,
+                "min_line_length": 294
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "96-530-0830",
+                "max_distance": 984,
+                "max_cargo_weight": 264,
+                "is_military": false
+            },
+            {
+                "number": "34-187-0173",
+                "max_distance": 433,
+                "max_cargo_weight": 297,
+                "is_military": true
+            },
+            {
+                "number": "48-506-0230",
+                "max_distance": 575,
+                "max_cargo_weight": 305,
+                "is_military": true
+            },
+            {
+                "number": "47-865-2872",
+                "max_distance": 843,
+                "max_cargo_weight": 971,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Albina Airport",
+        "max_aricrafts": 10,
+        "line_length": 445,
+        "planes": [
+            {
+                "number": "63-115-0099",
+                "max_distance": 1359,
+                "max_cargo_weight": 1411,
+                "min_line_length": 341
+            },
+            {
+                "number": "26-052-8320",
+                "max_distance": 1930,
+                "max_cargo_weight": 1478,
+                "min_line_length": 397
+            },
+            {
+                "number": "56-784-5811",
+                "max_distance": 2156,
+                "max_cargo_weight": 1482,
+                "min_line_length": 196
+            },
+            {
+                "number": "27-397-6669",
+                "max_distance": 1059,
+                "max_cargo_weight": 1270,
+                "min_line_length": 388
+            },
+            {
+                "number": "43-122-2251",
+                "max_distance": 1852,
+                "max_cargo_weight": 1151,
+                "min_line_length": 362
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "70-265-7413",
+                "max_distance": 447,
+                "max_cargo_weight": 222,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Yemelyanovo Airport",
+        "max_aricrafts": 7,
+        "line_length": 227,
+        "planes": [
+            {
+                "number": "94-460-3183",
+                "max_distance": 3940,
+                "max_cargo_weight": 1461,
+                "min_line_length": 225
+            },
+            {
+                "number": "73-710-2813",
+                "max_distance": 2634,
+                "max_cargo_weight": 1458,
+                "min_line_length": 483
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "02-978-9787",
+                "max_distance": 328,
+                "max_cargo_weight": 309,
+                "is_military": true
+            },
+            {
+                "number": "88-021-8265",
+                "max_distance": 342,
+                "max_cargo_weight": 476,
+                "is_military": false
+            },
+            {
+                "number": "76-026-9139",
+                "max_distance": 929,
+                "max_cargo_weight": 674,
+                "is_military": false
+            },
+            {
+                "number": "43-877-3374",
+                "max_distance": 809,
+                "max_cargo_weight": 760,
+                "is_military": true
+            },
+            {
+                "number": "66-950-5163",
+                "max_distance": 916,
+                "max_cargo_weight": 310,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Da Nang International Airport",
+        "max_aricrafts": 7,
+        "line_length": 282,
+        "planes": [
+            {
+                "number": "31-755-6423",
+                "max_distance": 1972,
+                "max_cargo_weight": 1028,
+                "min_line_length": 392
+            },
+            {
+                "number": "55-543-6739",
+                "max_distance": 2243,
+                "max_cargo_weight": 1078,
+                "min_line_length": 366
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "87-220-5014",
+                "max_distance": 643,
+                "max_cargo_weight": 675,
+                "is_military": true
+            },
+            {
+                "number": "61-960-2394",
+                "max_distance": 976,
+                "max_cargo_weight": 423,
+                "is_military": true
+            },
+            {
+                "number": "70-388-3296",
+                "max_distance": 379,
+                "max_cargo_weight": 998,
+                "is_military": true
+            },
+            {
+                "number": "24-316-2828",
+                "max_distance": 283,
+                "max_cargo_weight": 697,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Laghouat Airport",
+        "max_aricrafts": null,
+        "line_length": 206,
+        "planes": [
+            {
+                "number": "80-276-6291",
+                "max_distance": 1193,
+                "max_cargo_weight": 1247,
+                "min_line_length": 215
+            },
+            {
+                "number": "03-459-6850",
+                "max_distance": 2522,
+                "max_cargo_weight": 1294,
+                "min_line_length": 477
+            },
+            {
+                "number": "75-438-1719",
+                "max_distance": 1825,
+                "max_cargo_weight": 1486,
+                "min_line_length": 420
+            },
+            {
+                "number": "56-204-8615",
+                "max_distance": 1463,
+                "max_cargo_weight": 1446,
+                "min_line_length": 451
+            },
+            {
+                "number": "89-871-9329",
+                "max_distance": 2386,
+                "max_cargo_weight": 1208,
+                "min_line_length": 121
+            }
+        ],
+        "helicopters": []
+    },
+    {
+        "name": "Dumpu Airport",
+        "max_aricrafts": null,
+        "line_length": 232,
+        "planes": [
+            {
+                "number": "17-790-4338",
+                "max_distance": 2928,
+                "max_cargo_weight": 1117,
+                "min_line_length": 439
+            },
+            {
+                "number": "91-631-4454",
+                "max_distance": 1447,
+                "max_cargo_weight": 1093,
+                "min_line_length": 304
+            },
+            {
+                "number": "10-363-5844",
+                "max_distance": 3328,
+                "max_cargo_weight": 1119,
+                "min_line_length": 242
+            },
+            {
+                "number": "44-067-5659",
+                "max_distance": 2303,
+                "max_cargo_weight": 1029,
+                "min_line_length": 377
+            },
+            {
+                "number": "22-796-8474",
+                "max_distance": 1418,
+                "max_cargo_weight": 1031,
+                "min_line_length": 366
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "54-469-9767",
+                "max_distance": 356,
+                "max_cargo_weight": 654,
+                "is_military": false
+            },
+            {
+                "number": "72-765-0342",
+                "max_distance": 671,
+                "max_cargo_weight": 575,
+                "is_military": false
+            },
+            {
+                "number": "93-262-2339",
+                "max_distance": 698,
+                "max_cargo_weight": 381,
+                "is_military": false
+            },
+            {
+                "number": "82-110-9177",
+                "max_distance": 634,
+                "max_cargo_weight": 854,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Maiana Airport",
+        "max_aricrafts": 5,
+        "line_length": 243,
+        "planes": [
+            {
+                "number": "97-416-3371",
+                "max_distance": 3626,
+                "max_cargo_weight": 1202,
+                "min_line_length": 393
+            },
+            {
+                "number": "23-623-5383",
+                "max_distance": 3843,
+                "max_cargo_weight": 1109,
+                "min_line_length": 296
+            }
+        ],
+        "helicopters": []
+    },
+    {
+        "name": "Jales Airport",
+        "max_aricrafts": 6,
+        "line_length": 392,
+        "planes": [
+            {
+                "number": "31-336-5031",
+                "max_distance": 1699,
+                "max_cargo_weight": 1023,
+                "min_line_length": 143
+            },
+            {
+                "number": "95-855-9017",
+                "max_distance": 3587,
+                "max_cargo_weight": 1272,
+                "min_line_length": 462
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "47-133-4833",
+                "max_distance": 233,
+                "max_cargo_weight": 328,
+                "is_military": false
+            },
+            {
+                "number": "52-798-0291",
+                "max_distance": 369,
+                "max_cargo_weight": 296,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "São Miguel do Araguaia Airport",
+        "max_aricrafts": null,
+        "line_length": 315,
+        "planes": [
+            {
+                "number": "28-179-1958",
+                "max_distance": 3337,
+                "max_cargo_weight": 1320,
+                "min_line_length": 158
+            },
+            {
+                "number": "48-118-8171",
+                "max_distance": 1161,
+                "max_cargo_weight": 1278,
+                "min_line_length": 132
+            },
+            {
+                "number": "20-167-4939",
+                "max_distance": 1260,
+                "max_cargo_weight": 1468,
+                "min_line_length": 179
+            },
+            {
+                "number": "31-714-0289",
+                "max_distance": 1013,
+                "max_cargo_weight": 1212,
+                "min_line_length": 235
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "71-635-2456",
+                "max_distance": 578,
+                "max_cargo_weight": 210,
+                "is_military": true
+            },
+            {
+                "number": "60-436-9403",
+                "max_distance": 389,
+                "max_cargo_weight": 529,
+                "is_military": true
+            },
+            {
+                "number": "19-255-2180",
+                "max_distance": 449,
+                "max_cargo_weight": 531,
+                "is_military": true
+            },
+            {
+                "number": "58-118-5095",
+                "max_distance": 848,
+                "max_cargo_weight": 544,
+                "is_military": true
+            },
+            {
+                "number": "41-573-5787",
+                "max_distance": 851,
+                "max_cargo_weight": 948,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Dedougou Airport",
+        "max_aricrafts": null,
+        "line_length": 267,
+        "planes": [
+            {
+                "number": "46-386-4673",
+                "max_distance": 3309,
+                "max_cargo_weight": 1033,
+                "min_line_length": 265
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "11-630-0603",
+                "max_distance": 631,
+                "max_cargo_weight": 346,
+                "is_military": true
+            },
+            {
+                "number": "30-582-0719",
+                "max_distance": 238,
+                "max_cargo_weight": 438,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Deputatskiy Airport",
+        "max_aricrafts": 10,
+        "line_length": 275,
+        "planes": [
+            {
+                "number": "01-331-3975",
+                "max_distance": 2360,
+                "max_cargo_weight": 1117,
+                "min_line_length": 317
+            },
+            {
+                "number": "73-547-0876",
+                "max_distance": 2808,
+                "max_cargo_weight": 1250,
+                "min_line_length": 235
+            },
+            {
+                "number": "93-245-8570",
+                "max_distance": 1378,
+                "max_cargo_weight": 1301,
+                "min_line_length": 434
+            },
+            {
+                "number": "68-314-1300",
+                "max_distance": 1329,
+                "max_cargo_weight": 1163,
+                "min_line_length": 148
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "15-873-4216",
+                "max_distance": 200,
+                "max_cargo_weight": 948,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Žabljak Airport",
+        "max_aricrafts": 6,
+        "line_length": 310,
+        "planes": [
+            {
+                "number": "01-309-0177",
+                "max_distance": 2527,
+                "max_cargo_weight": 1418,
+                "min_line_length": 474
+            },
+            {
+                "number": "70-536-4269",
+                "max_distance": 2052,
+                "max_cargo_weight": 1284,
+                "min_line_length": 238
+            },
+            {
+                "number": "90-226-6887",
+                "max_distance": 3777,
+                "max_cargo_weight": 1224,
+                "min_line_length": 137
+            },
+            {
+                "number": "17-524-3527",
+                "max_distance": 2282,
+                "max_cargo_weight": 1348,
+                "min_line_length": 205
+            },
+            {
+                "number": "64-763-5060",
+                "max_distance": 2981,
+                "max_cargo_weight": 1377,
+                "min_line_length": 474
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "39-156-3945",
+                "max_distance": 657,
+                "max_cargo_weight": 242,
+                "is_military": true
+            },
+            {
+                "number": "49-388-7300",
+                "max_distance": 871,
+                "max_cargo_weight": 670,
+                "is_military": false
+            },
+            {
+                "number": "31-787-1448",
+                "max_distance": 774,
+                "max_cargo_weight": 685,
+                "is_military": false
+            },
+            {
+                "number": "98-581-9556",
+                "max_distance": 996,
+                "max_cargo_weight": 866,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "José Joaquín de Olmedo International Airport",
+        "max_aricrafts": 8,
+        "line_length": 393,
+        "planes": [
+            {
+                "number": "91-591-1725",
+                "max_distance": 1024,
+                "max_cargo_weight": 1142,
+                "min_line_length": 106
+            },
+            {
+                "number": "36-540-2367",
+                "max_distance": 1280,
+                "max_cargo_weight": 1211,
+                "min_line_length": 180
+            },
+            {
+                "number": "93-042-2710",
+                "max_distance": 2957,
+                "max_cargo_weight": 1340,
+                "min_line_length": 428
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "46-029-5021",
+                "max_distance": 719,
+                "max_cargo_weight": 330,
+                "is_military": false
+            },
+            {
+                "number": "28-182-9277",
+                "max_distance": 218,
+                "max_cargo_weight": 417,
+                "is_military": false
+            },
+            {
+                "number": "43-758-5284",
+                "max_distance": 869,
+                "max_cargo_weight": 370,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Rar Gwamar Airport",
+        "max_aricrafts": null,
+        "line_length": 219,
+        "planes": [],
+        "helicopters": [
+            {
+                "number": "15-458-6994",
+                "max_distance": 636,
+                "max_cargo_weight": 499,
+                "is_military": true
+            },
+            {
+                "number": "57-864-0412",
+                "max_distance": 541,
+                "max_cargo_weight": 694,
+                "is_military": true
+            },
+            {
+                "number": "06-044-2187",
+                "max_distance": 883,
+                "max_cargo_weight": 777,
+                "is_military": true
+            },
+            {
+                "number": "24-276-2777",
+                "max_distance": 424,
+                "max_cargo_weight": 435,
+                "is_military": false
+            },
+            {
+                "number": "34-487-4510",
+                "max_distance": 612,
+                "max_cargo_weight": 712,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Fuyang Xiguan Airport",
+        "max_aricrafts": 8,
+        "line_length": 212,
+        "planes": [
+            {
+                "number": "09-696-0025",
+                "max_distance": 3441,
+                "max_cargo_weight": 1396,
+                "min_line_length": 389
+            },
+            {
+                "number": "18-620-8963",
+                "max_distance": 1137,
+                "max_cargo_weight": 1061,
+                "min_line_length": 396
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "81-228-7222",
+                "max_distance": 899,
+                "max_cargo_weight": 390,
+                "is_military": false
+            },
+            {
+                "number": "17-184-7478",
+                "max_distance": 303,
+                "max_cargo_weight": 870,
+                "is_military": true
+            },
+            {
+                "number": "61-047-3953",
+                "max_distance": 662,
+                "max_cargo_weight": 415,
+                "is_military": true
+            },
+            {
+                "number": "85-175-4012",
+                "max_distance": 414,
+                "max_cargo_weight": 289,
+                "is_military": true
+            },
+            {
+                "number": "36-419-8957",
+                "max_distance": 811,
+                "max_cargo_weight": 247,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Century City Heliport",
+        "max_aricrafts": null,
+        "line_length": 201,
+        "planes": [
+            {
+                "number": "51-041-9276",
+                "max_distance": 3933,
+                "max_cargo_weight": 1208,
+                "min_line_length": 305
+            },
+            {
+                "number": "61-338-7962",
+                "max_distance": 3963,
+                "max_cargo_weight": 1366,
+                "min_line_length": 473
+            },
+            {
+                "number": "59-805-3035",
+                "max_distance": 1651,
+                "max_cargo_weight": 1336,
+                "min_line_length": 230
+            },
+            {
+                "number": "01-003-8376",
+                "max_distance": 3060,
+                "max_cargo_weight": 1393,
+                "min_line_length": 140
+            },
+            {
+                "number": "05-498-8485",
+                "max_distance": 2280,
+                "max_cargo_weight": 1466,
+                "min_line_length": 464
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "91-832-3463",
+                "max_distance": 464,
+                "max_cargo_weight": 338,
+                "is_military": false
+            },
+            {
+                "number": "36-491-7606",
+                "max_distance": 757,
+                "max_cargo_weight": 828,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Arak Airport",
+        "max_aricrafts": 7,
+        "line_length": 242,
+        "planes": [],
+        "helicopters": [
+            {
+                "number": "27-979-2622",
+                "max_distance": 698,
+                "max_cargo_weight": 656,
+                "is_military": true
+            },
+            {
+                "number": "81-571-1527",
+                "max_distance": 262,
+                "max_cargo_weight": 947,
+                "is_military": true
+            },
+            {
+                "number": "25-577-2194",
+                "max_distance": 866,
+                "max_cargo_weight": 349,
+                "is_military": true
+            },
+            {
+                "number": "63-789-3235",
+                "max_distance": 311,
+                "max_cargo_weight": 698,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Sir Abubakar Tafawa Balewa International Airport",
+        "max_aricrafts": 7,
+        "line_length": 441,
+        "planes": [
+            {
+                "number": "40-304-2083",
+                "max_distance": 2939,
+                "max_cargo_weight": 1121,
+                "min_line_length": 462
+            },
+            {
+                "number": "86-543-3907",
+                "max_distance": 1300,
+                "max_cargo_weight": 1033,
+                "min_line_length": 357
+            },
+            {
+                "number": "73-575-5901",
+                "max_distance": 3363,
+                "max_cargo_weight": 1163,
+                "min_line_length": 163
+            },
+            {
+                "number": "62-475-5687",
+                "max_distance": 3653,
+                "max_cargo_weight": 1220,
+                "min_line_length": 417
+            }
+        ],
+        "helicopters": []
+    },
+    {
+        "name": "Dracena Airport",
+        "max_aricrafts": 9,
+        "line_length": 322,
+        "planes": [
+            {
+                "number": "39-897-8572",
+                "max_distance": 2880,
+                "max_cargo_weight": 1301,
+                "min_line_length": 405
+            },
+            {
+                "number": "18-446-9892",
+                "max_distance": 2531,
+                "max_cargo_weight": 1371,
+                "min_line_length": 338
+            },
+            {
+                "number": "41-864-6325",
+                "max_distance": 2133,
+                "max_cargo_weight": 1085,
+                "min_line_length": 354
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "47-602-9880",
+                "max_distance": 697,
+                "max_cargo_weight": 202,
+                "is_military": false
+            },
+            {
+                "number": "49-171-2347",
+                "max_distance": 737,
+                "max_cargo_weight": 203,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Fria Airport",
+        "max_aricrafts": 8,
+        "line_length": 479,
+        "planes": [
+            {
+                "number": "14-714-4860",
+                "max_distance": 3328,
+                "max_cargo_weight": 1014,
+                "min_line_length": 288
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "26-126-1763",
+                "max_distance": 913,
+                "max_cargo_weight": 805,
+                "is_military": true
+            },
+            {
+                "number": "01-841-0691",
+                "max_distance": 868,
+                "max_cargo_weight": 857,
+                "is_military": true
+            },
+            {
+                "number": "72-085-4713",
+                "max_distance": 742,
+                "max_cargo_weight": 807,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Centralia Municipal Airport",
+        "max_aricrafts": null,
+        "line_length": 288,
+        "planes": [
+            {
+                "number": "87-146-8442",
+                "max_distance": 3310,
+                "max_cargo_weight": 1042,
+                "min_line_length": 206
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "80-417-2431",
+                "max_distance": 300,
+                "max_cargo_weight": 859,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Aalborg Airport",
+        "max_aricrafts": 8,
+        "line_length": 219,
+        "planes": [
+            {
+                "number": "03-451-0536",
+                "max_distance": 2180,
+                "max_cargo_weight": 1036,
+                "min_line_length": 115
+            },
+            {
+                "number": "03-741-6707",
+                "max_distance": 3332,
+                "max_cargo_weight": 1188,
+                "min_line_length": 484
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "28-156-0530",
+                "max_distance": 315,
+                "max_cargo_weight": 238,
+                "is_military": true
+            },
+            {
+                "number": "10-949-7180",
+                "max_distance": 387,
+                "max_cargo_weight": 810,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Kirkwall Airport",
+        "max_aricrafts": 6,
+        "line_length": 362,
+        "planes": [
+            {
+                "number": "48-011-0217",
+                "max_distance": 1069,
+                "max_cargo_weight": 1345,
+                "min_line_length": 181
+            },
+            {
+                "number": "85-037-0131",
+                "max_distance": 3907,
+                "max_cargo_weight": 1214,
+                "min_line_length": 413
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "91-477-6577",
+                "max_distance": 340,
+                "max_cargo_weight": 376,
+                "is_military": true
+            },
+            {
+                "number": "02-408-4966",
+                "max_distance": 349,
+                "max_cargo_weight": 631,
+                "is_military": false
+            },
+            {
+                "number": "63-730-5364",
+                "max_distance": 986,
+                "max_cargo_weight": 759,
+                "is_military": false
+            },
+            {
+                "number": "29-494-8158",
+                "max_distance": 545,
+                "max_cargo_weight": 343,
+                "is_military": true
+            },
+            {
+                "number": "39-981-9332",
+                "max_distance": 567,
+                "max_cargo_weight": 926,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Changsha Huanghua International Airport",
+        "max_aricrafts": 9,
+        "line_length": 469,
+        "planes": [
+            {
+                "number": "27-738-7808",
+                "max_distance": 3913,
+                "max_cargo_weight": 1327,
+                "min_line_length": 208
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "53-291-6439",
+                "max_distance": 807,
+                "max_cargo_weight": 237,
+                "is_military": false
+            },
+            {
+                "number": "35-805-8669",
+                "max_distance": 450,
+                "max_cargo_weight": 930,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Roscommon County - Blodgett Memorial Airport",
+        "max_aricrafts": 6,
+        "line_length": 390,
+        "planes": [
+            {
+                "number": "65-303-7748",
+                "max_distance": 3520,
+                "max_cargo_weight": 1466,
+                "min_line_length": 400
+            },
+            {
+                "number": "03-764-0342",
+                "max_distance": 1168,
+                "max_cargo_weight": 1360,
+                "min_line_length": 228
+            },
+            {
+                "number": "04-225-9973",
+                "max_distance": 2900,
+                "max_cargo_weight": 1072,
+                "min_line_length": 162
+            }
+        ],
+        "helicopters": []
+    },
+    {
+        "name": "Buin Airport",
+        "max_aricrafts": null,
+        "line_length": 289,
+        "planes": [
+            {
+                "number": "26-460-7769",
+                "max_distance": 2946,
+                "max_cargo_weight": 1042,
+                "min_line_length": 471
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "48-841-0456",
+                "max_distance": 405,
+                "max_cargo_weight": 319,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Pskov Airport",
+        "max_aricrafts": 7,
+        "line_length": 446,
+        "planes": [
+            {
+                "number": "44-384-7854",
+                "max_distance": 3540,
+                "max_cargo_weight": 1213,
+                "min_line_length": 307
+            },
+            {
+                "number": "45-844-9967",
+                "max_distance": 1774,
+                "max_cargo_weight": 1385,
+                "min_line_length": 208
+            },
+            {
+                "number": "09-745-9059",
+                "max_distance": 2665,
+                "max_cargo_weight": 1266,
+                "min_line_length": 227
+            },
+            {
+                "number": "50-204-8360",
+                "max_distance": 2373,
+                "max_cargo_weight": 1219,
+                "min_line_length": 152
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "06-333-3048",
+                "max_distance": 851,
+                "max_cargo_weight": 734,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Eloy Alfaro International Airport",
+        "max_aricrafts": 10,
+        "line_length": 230,
+        "planes": [
+            {
+                "number": "23-777-6461",
+                "max_distance": 3687,
+                "max_cargo_weight": 1330,
+                "min_line_length": 217
+            },
+            {
+                "number": "75-913-0956",
+                "max_distance": 1981,
+                "max_cargo_weight": 1450,
+                "min_line_length": 109
+            },
+            {
+                "number": "50-457-6090",
+                "max_distance": 3023,
+                "max_cargo_weight": 1328,
+                "min_line_length": 107
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "92-331-9160",
+                "max_distance": 234,
+                "max_cargo_weight": 430,
+                "is_military": false
+            },
+            {
+                "number": "40-743-8487",
+                "max_distance": 633,
+                "max_cargo_weight": 857,
+                "is_military": true
+            },
+            {
+                "number": "27-744-9354",
+                "max_distance": 780,
+                "max_cargo_weight": 954,
+                "is_military": true
+            },
+            {
+                "number": "77-677-5518",
+                "max_distance": 944,
+                "max_cargo_weight": 837,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Irkutsk Airport",
+        "max_aricrafts": 6,
+        "line_length": 395,
+        "planes": [
+            {
+                "number": "79-014-6287",
+                "max_distance": 3994,
+                "max_cargo_weight": 1288,
+                "min_line_length": 203
+            },
+            {
+                "number": "54-101-4011",
+                "max_distance": 3602,
+                "max_cargo_weight": 1401,
+                "min_line_length": 282
+            },
+            {
+                "number": "74-557-1531",
+                "max_distance": 3043,
+                "max_cargo_weight": 1360,
+                "min_line_length": 325
+            },
+            {
+                "number": "82-066-3037",
+                "max_distance": 3947,
+                "max_cargo_weight": 1036,
+                "min_line_length": 202
+            }
+        ],
+        "helicopters": []
+    },
+    {
+        "name": "Grand Lake Regional Airport",
+        "max_aricrafts": 9,
+        "line_length": 499,
+        "planes": [
+            {
+                "number": "69-540-5687",
+                "max_distance": 2116,
+                "max_cargo_weight": 1107,
+                "min_line_length": 201
+            },
+            {
+                "number": "99-162-5614",
+                "max_distance": 1201,
+                "max_cargo_weight": 1208,
+                "min_line_length": 218
+            },
+            {
+                "number": "66-736-1205",
+                "max_distance": 2005,
+                "max_cargo_weight": 1336,
+                "min_line_length": 500
+            },
+            {
+                "number": "51-482-6268",
+                "max_distance": 3953,
+                "max_cargo_weight": 1214,
+                "min_line_length": 355
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "27-144-5134",
+                "max_distance": 475,
+                "max_cargo_weight": 356,
+                "is_military": true
+            },
+            {
+                "number": "52-240-8056",
+                "max_distance": 931,
+                "max_cargo_weight": 539,
+                "is_military": false
+            },
+            {
+                "number": "81-675-9328",
+                "max_distance": 856,
+                "max_cargo_weight": 305,
+                "is_military": false
+            },
+            {
+                "number": "26-896-4616",
+                "max_distance": 781,
+                "max_cargo_weight": 339,
+                "is_military": true
+            }
+        ]
+    },
+    {
+        "name": "Castlereagh Lake Seaplane Base",
+        "max_aricrafts": null,
+        "line_length": 218,
+        "planes": [
+            {
+                "number": "56-718-2969",
+                "max_distance": 2197,
+                "max_cargo_weight": 1071,
+                "min_line_length": 451
+            },
+            {
+                "number": "60-265-5961",
+                "max_distance": 2927,
+                "max_cargo_weight": 1079,
+                "min_line_length": 473
+            },
+            {
+                "number": "84-672-6688",
+                "max_distance": 3846,
+                "max_cargo_weight": 1421,
+                "min_line_length": 368
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "32-632-0495",
+                "max_distance": 822,
+                "max_cargo_weight": 484,
+                "is_military": false
+            },
+            {
+                "number": "07-643-4029",
+                "max_distance": 942,
+                "max_cargo_weight": 413,
+                "is_military": false
+            },
+            {
+                "number": "51-552-9100",
+                "max_distance": 235,
+                "max_cargo_weight": 869,
+                "is_military": true
+            },
+            {
+                "number": "13-470-4276",
+                "max_distance": 874,
+                "max_cargo_weight": 329,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Valesdir Airport",
+        "max_aricrafts": null,
+        "line_length": 478,
+        "planes": [
+            {
+                "number": "51-817-3039",
+                "max_distance": 2655,
+                "max_cargo_weight": 1419,
+                "min_line_length": 409
+            }
+        ],
+        "helicopters": [
+            {
+                "number": "61-048-4411",
+                "max_distance": 349,
+                "max_cargo_weight": 906,
+                "is_military": false
+            }
+        ]
+    },
+    {
+        "name": "Samaná El Catey International Airport",
+        "max_aricrafts": null,
+        "line_length": 374,
+        "planes": [
+            {
+                "number": "65-849-1569",
+                "max_distance": 1417,
+                "max_cargo_weight": 1324,
+                "min_line_length": 257
+            },
+            {
+                "number": "59-199-8674",
+                "max_distance": 2189,
+                "max_cargo_weight": 1463,
+                "min_line_length": 180
+            },
+            {
+                "number": "08-646-6969",
+                "max_distance": 2676,
+                "max_cargo_weight": 1375,
+                "min_line_length": 100
+            },
+            {
+                "number": "72-464-3795",
+                "max_distance": 2181,
+                "max_cargo_weight": 1067,
+                "min_line_length": 401
+            },
+            {
+                "number": "32-715-5798",
+                "max_distance": 3070,
+                "max_cargo_weight": 1032,
+                "min_line_length": 117
+            }
+        ],
+        "helicopters": []
+    }
+]
