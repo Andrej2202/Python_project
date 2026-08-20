@@ -1,6 +1,6 @@
-from ex.aircraft import Plane
-from ex.aircraft import Helicopter
-from ex.airport import Airport
+from aircraft import Plane
+from aircraft import Helicopter
+from airport import Airport
 from pilot import Pilot
 import json
 import random
@@ -20,6 +20,7 @@ for i in data:
     for j in range(5):
         pilot = Pilot(f'Name{j}', f'Surname{j}', f'Patronymic{j}', 1000, random.randint(25, 50))
         airport.pilots.append(pilot)
+        #airport.add_pilot(pilot)
         print(pilot)
     added_airports.append(airport)
 
