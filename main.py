@@ -40,7 +40,6 @@ airport1.transfer_pilot(airport2, petya)
 print(len(airport1.planes))
 print(len(airport2.planes))
 
-стек вызова:   main -> transfer_pilot ->  add_pilot
 
 
 

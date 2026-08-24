@@ -24,5 +24,3 @@ try:
 except TooYoungError as e:
     print(f"Отказ в продаже: {e}")
 
-
-f1 -> f2 -> f3 -> ... -> f_n
