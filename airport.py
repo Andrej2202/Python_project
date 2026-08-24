@@ -1,6 +1,10 @@
 from aircraft import Plane
 from aircraft import Helicopter
 import random
+from Exceptions import AircraftError
+from Exceptions import AirportError
+from Exceptions import PilotError
+
 class Airport:
 
 
@@ -28,41 +32,33 @@ class Airport:
             if i.number == number:
                 aircraft_sent = i
                 break
+        if(aircraft_sent == None):
+            raise AircraftError(f"There is no aircraft with number {number}")
         return aircraft_sent
+    
     def send_aircraft(self, target_airport, number, distance):
         aircraft_sent = self.aircraft_find(number)
         if aircraft_sent is None:
-            print('Aircraft not found')
-            return
+            raise AircraftError("Aircraft not found")
         if distance > aircraft_sent.max_distance:
-            print('Aircraft found with maximum distance')
-            return
+            raise AircraftError(f"Aircraft found, but maximum distance: {aircraft_sent.max_distance} is lower then distance between airports: {distance}")
         if target_airport.max_aircrafts <= len(target_airport.planes+target_airport.helicopters):
-            print('Aircraft maximum capacity reached')
-            return
+            raise AirportError("Aircraft maximum capacity reached")
         if type(aircraft_sent) == Plane and target_airport.line_lengths < aircraft_sent.min_line_length:
-            print('Airport line length not enough')
-            return
+            raise AirportError('Airport line length not enough')
         if type(aircraft_sent) == Helicopter and aircraft_sent.is_military == True and target_airport.max_aircrafts*0.5 < len(target_airport.planes+target_airport.helicopters): #очепятка милирати
-            print('Aircraft maximum capacity reached')
-            return
+            raise AircraftError('Aircraft maximum capacity reached')
         if len(self.pilots) < 2:
-            print('Airport doesnt have 2 pilots to transfer')
-            return
+            raise AirportError('Airport doesnt have 2 pilots to transfer')
 
 
         need_fuel = distance * 0.25
-        can_fuel = False
         if need_fuel > aircraft_sent.fuel:
-            can_fuel = self.add_fuel(number, need_fuel)
-
-        if can_fuel == False:
-            print('Aircraft cant take off due to the fuel issues')
+            self.add_fuel(number, need_fuel)
 
         pilots_for_transfer=random.sample(self.pilots, 2)  #выбирает несколько случайных элементов из списка
         for pilot in pilots_for_transfer:
-            if(self.transfer_pilot(target_airport, pilot) == False):
-                return
+            self.transfer_pilot(target_airport, pilot)
 
         print('transfer is approved')
         aircraft_sent.fuel -= need_fuel
@@ -78,62 +74,49 @@ class Airport:
             target_airport.helicopters.append(aircraft_sent)
 
         
-        
-
         print(f'fuel {need_fuel} spent for flight')
         print('Aircraft successfully transferred')
 
     def transfer_pilot(self, target_airport, pilot):
-        if(self.disolve_pilot(pilot) == False):
-            print('There is no such pilot in this airport')
-            return False
-        if(target_airport.add_pilot(pilot) == False):
-            print('There is already a pilot with this name in target airport')
+        self.disolve_pilot(pilot)
+
+        target_airport.add_pilot(pilot)
         pilot.current_airport = target_airport.name
-        return True
         
 
     def disolve_pilot(self, pilot):
         if pilot in self.pilots:
             self.pilots.remove(pilot)
             print('Pilot disolved')
-            return True
-        print('Pilot is already disolved')
-        return False
+        raise PilotError('Pilot is already disolved')
 
 
     def add_fuel(self, number, need_fuel):
         aircraft = self.aircraft_find(number)
         max_additional_fuel = aircraft.max_distance * 0.25 - aircraft.fuel
         if need_fuel > max_additional_fuel:
-            print('This aircraft cant hold so much fuel')
-            return False
+            raise AircraftError('This aircraft cant hold so much fuel')
         if self.fuel < need_fuel:
-            print('airport fuel not enough')
-            return False
+            raise AirportError('airport fuel not enough')
         self.fuel -= need_fuel
         aircraft.fuel += need_fuel
-        return True
         
 
     def add_pilot(self, pilot):
         if pilot not in self.pilots:
             if(pilot.age < 25 or pilot.age > 50):
-                print('Pilot age is not in bounds')
-                return False
+                raise PilotError('Pilot age is not in bounds')
             self.pilots.append(pilot)
             pilot.current_airport = self
             print('Pilot added')
             return True
-        print('Pilot is already added')
-        return False
+        raise PilotError('Pilot is already added')
 
 
     def add_aircraft(self, *args):   #кортеж, в который мы ппередаем сколько угодно параметров
         for new_aircraft in args:
             if self.max_aircrafts == len(self.planes) + len(self.helicopters):
-                print('Airport is full')
-                break
+                raise AirportError('Airport is full')
             if type(new_aircraft) == Plane:
                 self.planes.append(new_aircraft)
                 print(f'Plane: {new_aircraft.number} added')
@@ -144,7 +127,7 @@ class Airport:
                     self.helicopters.append(new_aircraft)
                     print(f'Helicopter: {new_aircraft.number} added')
             else:
-                print(f'Unknown aircraft: {new_aircraft.number} not added')
+                raise AircraftError(f'Unknown aircraft: {new_aircraft.number} not added')
 
 
     def remove_aircraft(self, *args):
@@ -152,19 +135,17 @@ class Airport:
             for plane in self.planes:
                 if plane.number == number:
                     self.planes.remove(plane)
-                    print(f"Plane: {plane.number} removed") #очепятка
+                    print(f"Plane: {plane.number} removed")
                     break
             for helicopter in self.helicopters:
                 if helicopter.number == number:
                     self.helicopters.remove(helicopter)
-                    print(f"Helicopter: {helicopter.number} removed") #очепятка
+                    print(f"Helicopter: {helicopter.number} removed")
                     break
-        #Тихий скип если не найдено
+            print(f"Aircraft not found, number: {number}")
 
 
-#sheremetievo=Airport('sheremetievo', 24, 500)
 
-#def __str__(self):
 
 
 

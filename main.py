@@ -27,12 +27,20 @@ for i in data:
 
 airport1=added_airports[0]
 airport2=added_airports[1]
+#airport1.send_aircraft(airport2, "19-662-0603", 3761)
 print(len(airport1.planes))
 print(len(airport2.planes))
-plane1 = airport1.planes[0]
-airport1.send_aircraft(airport2, "19-662-0603", 3761)
+try:
+    
+    plane1 = airport1.planes[0]
+    airport1.send_aircraft(airport2, "19-662-0603", 3761)
+except Exception as e:
+    print(f"Ошибка: {e}")
+airport1.transfer_pilot(airport2, petya)
 print(len(airport1.planes))
 print(len(airport2.planes))
+
+стек вызова:   main -> transfer_pilot ->  add_pilot
 
 
 
