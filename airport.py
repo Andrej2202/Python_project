@@ -67,7 +67,7 @@ class Airport:
         if type(aircraft_sent) == Plane:
             self.planes.remove(aircraft_sent)
             target_airport.planes.append(aircraft_sent)
-        if type(aircraft_sent) == Helicopter:
+        elif type(aircraft_sent) == Helicopter:
             self.helicopters.remove(aircraft_sent)
             target_airport.helicopters.append(aircraft_sent)
         
@@ -75,16 +75,17 @@ class Airport:
         print('Aircraft successfully transferred')
 
     def transfer_pilot(self, target_airport, pilot):
-        target_airport.add_pilot(pilot)
+        temp_pilot = pilot
         self.disolve_pilot(pilot)
-        pilot.current_airport = target_airport
+        temp_pilot.current_airport = target_airport
+        target_airport.add_pilot(temp_pilot)
 
     def disolve_pilot(self, pilot):
         if pilot in self.pilots:
             self.pilots.remove(pilot)
             print('Pilot disolved')
             return
-        raise PilotError('Pilot is already disolved')
+        raise PilotError(f'There is no such pilot in {self.name}')
 
     def add_fuel(self, number, need_fuel):
         aircraft = self.aircraft_find(number)
@@ -103,17 +104,17 @@ class Airport:
             self.pilots.append(pilot)
             pilot.current_airport = self
             print('Pilot added')
-            return True
+            return
         raise PilotError('Pilot is already added')
 
     def add_aircraft(self, *args):
         for new_aircraft in args:
-            if self.max_aircrafts == len(self.planes) + len(self.helicopters):
+            if self.max_aircrafts < len(self.planes) + len(self.helicopters):
                 raise AirportError('Airport is full')
             if type(new_aircraft) == Plane:
                 self.planes.append(new_aircraft)
                 print(f'Plane: {new_aircraft.number} added')
-            elif type(new_aircraft) == Helicopter:
+            elif type(new_aircraft) == Helicopter: 
                 self.helicopters.append(new_aircraft)
                 print(f'Helicopter: {new_aircraft.number} added')
             else:
@@ -137,3 +138,8 @@ class Airport:
                         break
             if not found:
                 print(f"Aircraft not found, number: {number}")
+
+
+if __name__ == '__main__':
+    best_airport=Airport('Vnukovo', 15, 100)
+    print(str(best_airport))

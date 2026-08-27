@@ -6,6 +6,7 @@ class Aircraft:
         self.fuel=0
     def __str__(self):
         return f'Aircraft: Number:{self.number}, Max_distance: {self.max_distance}, Max_cargo_weight: {self.max_cargo_weight}'
+    
 
 class Plane(Aircraft):
     def __init__(self, number, max_distance, max_cargo_weight, min_line_length):
@@ -24,7 +25,12 @@ class Helicopter(Aircraft):
 
 
 
-#В каждом отдельном модуле необходимо указать демонстрационный код, который выполняется только при запуске модуля напрямую.
 if __name__ == '__main__':
+    planer=Aircraft('54664', 576, 6798)
+    print(str(planer))
+
     su_57=Plane('54664', 576, 6798, 57)
-    print(su_57)
+    print(str(su_57))
+    
+    mi_8=Helicopter('54664', 576, 6798, True)
+    print(str(mi_8))
